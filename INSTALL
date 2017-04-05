@@ -1,0 +1,18 @@
+1.1. Instalacja
+
+    Aby skompilowaæ program nale¿y wej¶c do katalogu w którym sa rozpakowane ¼ród³a
+    po czym wydaæ polecenie
+    
+	$ make
+    
+    Nastêpnie z poziomu roota (UID=0) nalezy wydaæ polecenie 
+    
+	# make install
+    
+    Je¶li chcia³by¶ odinstalowaæ program to z katalogu w którym rozpakowane sa ¼ród³a
+    nale¿y wykonaæ komendê
+    
+	# make uninstall 
+    
+    komenda ta nie wymaga posiadania skompilowanych (poleceniem make) ¼róde³
+    

@@ -1,0 +1,11 @@
+TODO before next major release (0.4.0)
+
+* add --run option
+* add --notify option
+* close program after finished countdown down to 0
+* add miliseconds to --stoper option
+* add predator language ;)
+* add roman language
+* add configrable comments
+* make an interactive configuration 
+* learn english (it sux!)
